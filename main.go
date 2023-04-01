@@ -1,11 +1,12 @@
 package main
 
 import (
-	"alien_attack/attack"
 	"fmt"
 	"log"
 	"os"
 	"strconv"
+
+	"github.com/ganeshdipdumbare/alien_attack/attack"
 )
 
 func main() {
