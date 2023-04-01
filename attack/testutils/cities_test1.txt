@@ -1,0 +1,3 @@
+city1 east=city2 west=city3
+city2 west=city1 south=city3
+city3

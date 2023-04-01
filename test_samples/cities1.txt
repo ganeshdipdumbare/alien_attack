@@ -1,0 +1,6 @@
+Mumbai east=Delhi west=Goa north=Kolkata south=Chennai
+Delhi west=Mumbai north=Chennai south=Goa
+Kolkata east=Chennai west=Delhi north=Goa south=Mumbai
+Nashik
+Chennai
+Goa
